@@ -9,3 +9,5 @@ Splitted (Train-Val-Test) BN-HTRd dataset: https://drive.google.com/file/d/1rPgU
 **Code for Automatic Annotation -> Necessary Links >>**<br/>
 Dataset (Contains folders with Raw RGB images): https://drive.google.com/file/d/1yYvNFVyrh9nWuQAkTnRrDZa1GZ7gvvkc/view?usp=sharing<br/>
 (**N.B.:** If you need to test with your own dataset, please download the provided link and set your dataset in that particular format)<br/><br/>
+
+[*To generate output for any datasets with multiple images, GPU is highly recommended! But just to see the output transition for single image, GPU is not mandatory.*]
